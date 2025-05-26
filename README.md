@@ -17,4 +17,4 @@ If not full length you can stretch this encoded video barcode to full length of 
 This is the demo. This music video is "IC3PEAK - Где мой дом" so i use this for **demo only!** **Not for Commercial Use**
 
 [![Ic3peak - Where Is My Home (audiobar demo) mp4_snapshot_00 00 000](https://github.com/user-attachments/assets/cd03df88-0454-458c-8d7c-70553fd061ac)
-](http://cdn.damp11113.xyz/media/video/Ic3peak%20-%20Where%20Is%20My%20Home%20(audiobar%20demo).mp4?player=1)
+](http://cdn.damp11113.xyz/media/video/Ic3peak%20-%20Where%20Is%20My%20Home%20(audiobar%20demo).mp4?dl=1)
